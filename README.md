@@ -2,6 +2,8 @@
 
 Arch package to compile the Linux kernel (4.12.5) for the Surface Pro 4 and Surface Book. 
 
+Based on jakeday's kernel https://github.com/jakeday/linux-surface
+
 
 ### To Enable Touchscreen
 
